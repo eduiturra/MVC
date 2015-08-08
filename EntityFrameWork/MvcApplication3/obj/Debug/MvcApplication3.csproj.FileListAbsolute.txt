@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\Eduardo\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\EntityFramework.SqlServer.xml
