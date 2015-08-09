@@ -1,0 +1,14 @@
+﻿@model IEnumerable<HiperLink.Models.Employee>
+
+@{
+    ViewBag.Title = "Employee List";
+}
+<div>
+<h2>Index</h2>
+<ul>
+@foreach (HiperLink.Models.Employee employee in @Model)
+{
+    <li>@Html.ActionLink(employee.Name, "Details",new { id=employee.EmployeeId });</li>
+}
+</ul>
+</div>

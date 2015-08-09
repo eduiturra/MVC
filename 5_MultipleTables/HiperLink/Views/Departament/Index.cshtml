@@ -1,0 +1,17 @@
+﻿@using HiperLink.Models;
+@model IEnumerable<Department> 
+
+@{
+    ViewBag.Title = "Departamento";
+}
+<div style="font-family:Arial"></div>
+<h2>Index</h2>
+
+<ul>
+@foreach (HiperLink.Models.Department dep in @Model)
+{
+    <li>
+    @Html.ActionLink(dep.Name, "Index", "Home", new { departmentId = dep.ID },null);
+    )</li>
+}
+</ul>

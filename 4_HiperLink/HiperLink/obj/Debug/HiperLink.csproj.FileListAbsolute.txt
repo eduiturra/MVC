@@ -1,0 +1,7 @@
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\bin\HiperLink.dll
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\bin\HiperLink.pdb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\bin\EntityFramework.dll
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\bin\EntityFramework.xml
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\obj\Debug\HiperLink.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\obj\Debug\HiperLink.dll
+C:\Users\Eduardo\documents\visual studio 2010\Projects\HiperLink\HiperLink\obj\Debug\HiperLink.pdb

@@ -1,0 +1,25 @@
+﻿@model HiperLink.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+<table>
+<tr>
+<td>Id:
+</td>
+<td>@Model.EmployeeId</td>
+</tr>
+<tr>
+<td>Name:
+</td>
+<td>@Model.Name</td>
+</tr>
+<tr>
+<td>Garder
+</td>
+<td>@Model.Gender</td>
+</tr>
+</table>
+@Html.ActionLink("Regresar", "Index");
