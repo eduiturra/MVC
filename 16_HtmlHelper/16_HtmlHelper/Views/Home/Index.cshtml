@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<h2>HTML Helper Video</h2>
+@Html.TextBox("firstname");
+@Html.TextBox("firstname","John");
+@Html.TextBox("firstname","John",new {style="background-color:red;color:white"})
+@Html.TextBox("firstname", "John", new { style = "background-color:red;color:white", title = "please enterfirst name" })
+@Html.TextBox("firstname", "John", new { @class = "texto", @readonly = true})
+<br />
+@Html.Label("firstname","firstname")
+<br />
+@Html.Password("Password")
+<br />
+@Html.TextArea("area","",5,20,null)
+<br />
+@Html.Hidden("hiden")

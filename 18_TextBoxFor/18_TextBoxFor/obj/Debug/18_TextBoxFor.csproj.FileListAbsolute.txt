@@ -1,0 +1,7 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\18_TextBoxFor.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\18_TextBoxFor.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.pdb

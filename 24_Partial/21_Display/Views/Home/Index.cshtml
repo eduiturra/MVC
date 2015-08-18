@@ -1,0 +1,6 @@
+﻿@model IEnumerable<_21_Display.Models.tblEmployee>
+
+@foreach (var item in Model)
+{
+    @Html.Partial("_Employee", item)
+} 

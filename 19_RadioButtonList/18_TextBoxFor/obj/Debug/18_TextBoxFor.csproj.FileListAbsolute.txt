@@ -1,0 +1,14 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\18_TextBoxFor.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\18_TextBoxFor.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\18_TextBoxFor\18_TextBoxFor\obj\Debug\18_TextBoxFor.pdb
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\bin\18_TextBoxFor.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\bin\18_TextBoxFor.pdb
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\bin\EntityFramework.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\bin\EntityFramework.xml
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\obj\Debug\18_TextBoxFor.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\obj\Debug\18_TextBoxFor.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\19_RadioButtonList\18_TextBoxFor\obj\Debug\18_TextBoxFor.pdb

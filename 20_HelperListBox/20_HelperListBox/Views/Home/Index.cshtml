@@ -1,0 +1,15 @@
+﻿@model _20_HelperListBox.Models.CitiesViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div style="font-family:Arial">
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.ListBoxFor(x=>x.SelectedCities, Model.Cities, new { size = 4 })
+    <br />
+    <input type="submit" value="Submit" />
+}
+</div>

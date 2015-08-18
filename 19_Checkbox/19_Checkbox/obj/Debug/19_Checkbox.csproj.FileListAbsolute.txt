@@ -1,0 +1,7 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\bin\19_Checkbox.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\bin\19_Checkbox.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\obj\Debug\19_Checkbox.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\obj\Debug\19_Checkbox.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\19_Checkbox\19_Checkbox\obj\Debug\19_Checkbox.pdb

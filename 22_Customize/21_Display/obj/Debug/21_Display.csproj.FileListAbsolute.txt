@@ -1,0 +1,14 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\bin\21_Display.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\bin\21_Display.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\obj\Debug\21_Display.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\obj\Debug\21_Display.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\21_Display\21_Display\obj\Debug\21_Display.pdb
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\bin\21_Display.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\bin\21_Display.pdb
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\bin\EntityFramework.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\bin\EntityFramework.xml
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\obj\Debug\21_Display.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\obj\Debug\21_Display.dll
+C:\Users\Eduardo\Documents\visual studio 2010\Projects\22_Customize\21_Display\obj\Debug\21_Display.pdb

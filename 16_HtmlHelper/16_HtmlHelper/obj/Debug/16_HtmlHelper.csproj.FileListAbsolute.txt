@@ -1,0 +1,7 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\bin\16_HtmlHelper.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\bin\16_HtmlHelper.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\obj\Debug\16_HtmlHelper.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\obj\Debug\16_HtmlHelper.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\16_HtmlHelper\16_HtmlHelper\obj\Debug\16_HtmlHelper.pdb

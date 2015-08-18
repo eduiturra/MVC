@@ -1,0 +1,1 @@
+1_Abrir Archivo .csproj(con Notepad) y cambiar la etiqueta MvcBuildViews a true
